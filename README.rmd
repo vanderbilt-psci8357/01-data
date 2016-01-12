@@ -8,6 +8,7 @@ output:
     template: charter-template.tex
   html_document:
     highlight: tango
+    keep_md: yes
 ---
 
 
